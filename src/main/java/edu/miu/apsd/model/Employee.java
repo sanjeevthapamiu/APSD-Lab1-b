@@ -1,4 +1,4 @@
-package edu.miu.apsd.entity;
+package edu.miu.apsd.model;
 
 import java.time.LocalDate;
 
